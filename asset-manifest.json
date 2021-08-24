@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/globe-page/static/css/main.ddd3c0bd.chunk.css",
+    "main.js": "/globe-page/static/js/main.e4275b42.chunk.js",
+    "main.js.map": "/globe-page/static/js/main.e4275b42.chunk.js.map",
+    "runtime-main.js": "/globe-page/static/js/runtime-main.76acdca4.js",
+    "runtime-main.js.map": "/globe-page/static/js/runtime-main.76acdca4.js.map",
+    "static/js/2.53fda169.chunk.js": "/globe-page/static/js/2.53fda169.chunk.js",
+    "static/js/2.53fda169.chunk.js.map": "/globe-page/static/js/2.53fda169.chunk.js.map",
+    "index.html": "/globe-page/index.html",
+    "static/css/main.ddd3c0bd.chunk.css.map": "/globe-page/static/css/main.ddd3c0bd.chunk.css.map",
+    "static/js/2.53fda169.chunk.js.LICENSE.txt": "/globe-page/static/js/2.53fda169.chunk.js.LICENSE.txt",
+    "static/media/globe.aaea7384.png": "/globe-page/static/media/globe.aaea7384.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.76acdca4.js",
+    "static/js/2.53fda169.chunk.js",
+    "static/css/main.ddd3c0bd.chunk.css",
+    "static/js/main.e4275b42.chunk.js"
+  ]
+}
